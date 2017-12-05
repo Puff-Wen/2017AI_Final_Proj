@@ -1,4 +1,5 @@
 '''Draw the result from loss and acc files'''
+''' This is a test '''
 from __future__ import print_function
 
 import argparse
